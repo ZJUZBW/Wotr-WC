@@ -304,22 +304,22 @@
 
 打完魅魔以后还差80经验就升级，所以刻意去打了两次野外遭遇战。升到6级再去打食魂魔，会更容易一些。因为不公平不能洗点，所以我每次升级都会留个存档。之前的部分图就是这个存档出去补拍的。
 
-![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\6级)
+![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/6%E7%BA%A7.jpg)
 
-![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\野外遭遇升级到6)
+![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E9%87%8E%E5%A4%96%E9%81%AD%E9%81%87%E5%8D%87%E7%BA%A7%E5%88%B06.jpg)
 
 ### 十八、集市广场（第三次）
 
 这次回来就是为了击杀食魂魔顺便解锁成就（铁卫雄心保卫战之后才会出现在集市广场，原死灵法师的位置）。
 
 - 常规BUFF+三个行动自如+席拉额外给防死结界，战前准备完成。
-  - ![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\集市广场食魂魔1)
+  - ![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E9%9B%86%E5%B8%82%E5%B9%BF%E5%9C%BA%E9%A3%9F%E9%AD%82%E9%AD%941.jpg)
 
 - 席拉过去拿装备引出食魂魔。然后往回拉位置，防止被食尸鬼包抄。
-  - ![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\集市广场食魂魔2)![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\集市广场食魂魔3)![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\集市广场食魂魔4)![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\集市广场食魂魔5)
+  - ![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E9%9B%86%E5%B8%82%E5%B9%BF%E5%9C%BA%E9%A3%9F%E9%AD%82%E9%AD%942.jpg)![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E9%9B%86%E5%B8%82%E5%B9%BF%E5%9C%BA%E9%A3%9F%E9%AD%82%E9%AD%943.jpg)![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E9%9B%86%E5%B8%82%E5%B9%BF%E5%9C%BA%E9%A3%9F%E9%AD%82%E9%AD%944.jpg)![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E9%9B%86%E5%B8%82%E5%B9%BF%E5%9C%BA%E9%A3%9F%E9%AD%82%E9%AD%945.jpg)
 
 - 这次读档重新打，没拉太远，被后面食尸鬼打到了，本来应该拉到坡道上就不会被食尸鬼绕后了。随便就打死了，毫无难度。
-  - ![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\集市广场食魂魔6)![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\集市广场食魂魔7)
+  - ![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E9%9B%86%E5%B8%82%E5%B9%BF%E5%9C%BA%E9%A3%9F%E9%AD%82%E9%AD%946.jpg)![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E9%9B%86%E5%B8%82%E5%B9%BF%E5%9C%BA%E9%A3%9F%E9%AD%82%E9%AD%947.jpg)
 
 ### 十九、灰兵营战前准备
 
@@ -366,7 +366,7 @@
 
 - 补充打法：输出不够的队伍，可以用2环法术**冰封禁制**造成强制恍惚，召唤蝗虫是整轮动作所以恍惚了就用不了了，她召唤不出蝗虫就很菜。
 
-- ![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\灰兵营杰斯琳)
+- ![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E7%81%B0%E5%85%B5%E8%90%A5%E6%9D%B0%E6%96%AF%E7%90%B3.jpg)
 
 #### 虫裂魔+诗人的房间
 
@@ -377,20 +377,20 @@
 席拉基本上没办法扛这个怪，只能靠移位术，在他把席拉打中之前秒了他。不过我们可以让席拉抗住第一下（让他别冲锋），吃借机攻击拉开，然后用操纵亡者当炮灰。小技巧就是全员A上去，他就不会冲锋后排了。
 
 - 补充打法：提前用一张落石卷轴（之前沃尔吉夫做的）造成困难地形，这样牛头人无法冲锋，直接用骷髅围住就行了。
-- ![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\灰兵营狄拉努)
+- ![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E7%81%B0%E5%85%B5%E8%90%A5%E7%8B%84%E6%8B%89%E5%8A%AA.jpg)
 
 #### 冥娜蛊
 
 即时制打法如下，岱兰音鸣爆无限控住下方敌人，然后科米丽雅切目盲术，目盲+油腻控住冥娜蛊，恐惧进击造成AOE惊恐，基本上是无伤的。小技巧就是油腻术出手之前，千万别接近冥娜蛊，她会瞬发传送门跑走。
 
 - 补充打法：回合制要么控制冥娜蛊血量在385以上，然后大力哥单轮砍死（用掉圣剑术）。要么就让岱兰走到最左上角，新刷出来的妄乱魔震慑不到的位置，这样控制可以无缝衔接。
-- ![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\灰兵营冥娜蛊)
+- ![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E7%81%B0%E5%85%B5%E8%90%A5%E5%86%A5%E5%A8%9C%E8%9B%8A.jpg)
 
 ### 二十一、灰兵营收尾以及神话1
 
 打完冥娜蛊，神话之力消失，但是获得神话1+自动回复全部法术位，这样我们可以回头去解决剩余的几个敌人，拾取战利品和解谜。如果有DLC1通关，这个时候也获得了天命所归的效果。东西都捡完放到灰兵营一层，出门的时候可以一次性拾取。
 
-![img](C:\Users\ZHAO\OneDrive\游戏\魔能射手战报图片存放\神话1)
+![img](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E7%A5%9E%E8%AF%9D1.jpg)
 
 **补充灰兵营几个小细节**：
 
